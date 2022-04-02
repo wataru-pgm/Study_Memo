@@ -30,7 +30,8 @@ Board.order(id: desc).limit(5)
 
 そんなときに使用するのがscope。
 
-上記と同じ式を一つのメソッドとして定義できる(ここでいうrecent)
+上記と同じ式を一つのメソッドとして定義できる
+recentの部分
 
 ●board.rb
 
